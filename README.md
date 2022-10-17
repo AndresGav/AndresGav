@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Andres Gavino !
+👋 Hi, I’m Andres Gavino !
 
