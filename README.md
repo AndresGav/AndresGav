@@ -21,3 +21,5 @@ while(alive){
   }
 }
 ```
+![SultanAlrefaeiProgrammerGIF](https://user-images.githubusercontent.com/50000912/196997214-48509ce3-278f-4d9c-b5bf-57c148545ccc.gif)
+![ProgrammerRoundedEdgesGIF](https://user-images.githubusercontent.com/50000912/196997225-3dd085c1-6573-4959-8038-c0e9a2b8d56f.gif)
