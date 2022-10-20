@@ -7,7 +7,6 @@
 > Estoy dispuesto a cambiar y ayudar al mundo !
 
 
-####Javascript　
 
 ```javascript
 let alive = true 
