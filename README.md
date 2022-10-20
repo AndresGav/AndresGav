@@ -7,6 +7,15 @@
 > Estoy dispuesto a cambiar y ayudar al mundo !
 
 
-Day 1 Trying help the world
-Day 2 Trying help the world
-Day 3 Trying help the world
+####Javascript　
+
+```javascript
+let alive = true 
+while(alive){
+  console.log("Conquistar el mundo !")
+  const d = new Date();
+  if(d.getFullYear()===2101 && d.getMonth()===1 ){
+    alive =false;
+  }
+}
+```
