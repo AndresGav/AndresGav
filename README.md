@@ -22,7 +22,7 @@ while(alive){
 }
 ```
 
-A trabajar !
+A trabajar y estudiar !
 
 
 
