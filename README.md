@@ -23,6 +23,6 @@ while(alive){
 ```
 
 
-A trabajar y estudiar VAMOS TITLIN !
+A trabajar y estudiar VAMOS TITLIN  x2 !
 
 
