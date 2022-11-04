@@ -23,6 +23,6 @@ while(alive){
 ```
 
 
-A trabajar y estudiar :) !
+A trabajar y estudiar todo bien !
 
 
