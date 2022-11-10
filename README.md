@@ -23,7 +23,7 @@ while(alive){
 ```
 
 
-A trabajar y estudiar todo bien !
+A trabajar y estudiar !
 
 Hoy es un dia bueno :)
 
