@@ -13,7 +13,7 @@
 
 ```javascript
 let alive = true 
-let d = new Date();
+let d 
 while(alive){
   console.log("Conquistar el mundo !")
   d = new Date();
