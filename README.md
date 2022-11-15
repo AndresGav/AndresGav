@@ -13,9 +13,10 @@
 
 ```javascript
 let alive = true 
+let d = new Date();
 while(alive){
   console.log("Conquistar el mundo !")
-  const d = new Date();
+  d = new Date();
   if(d.getFullYear()===2101 && d.getMonth()===1 ){
     alive =false;
   }
