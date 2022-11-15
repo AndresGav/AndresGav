@@ -24,15 +24,3 @@ while(alive){
 ```
 
 
-A trabajar y estudiar !
-
-Hoy es un dia bueno :)
-
-
-👍
-
-las 48 leyes del poder
-
-
-Hacer todo a su momento y aprovechar el tiempo.
-
