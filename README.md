@@ -13,10 +13,6 @@ while(alive){
     alive =
     
     
-    
-    
-    
-    
 
 
 
