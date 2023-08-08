@@ -10,10 +10,13 @@ while(alive){
   console.log("Conquistar el mundo !")
   d = new Date();
   if(d.getFullYear()===2101 && d.getMonth()===1 ){
-    alive =false;
-  }
-}
-```
+    alive =
+    
+    
+    
+    
+    
+    
 
 
 
