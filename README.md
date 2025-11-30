@@ -1,4 +1,4 @@
-I’m Andres Gavino !
+I’m Andres Gavino!
 
 
 
@@ -8,7 +8,7 @@ I’m Andres Gavino !
 let alive = true 
 let d 
 while(alive){
-  console.log("Conquistar el mundo !")
+  console.log("¡Conquistar el mundo!")
   d = new Date();
   if(d.getFullYear()===2101 && d.getMonth()===1 ){
     alive = false
@@ -17,6 +17,6 @@ while(alive){
 
 ```
 
-> Estoy dispuesto a cambiar y ayudar al mundo como sea !
+> Estoy dispuesto a cambiar y ayudar al mundo como sea!
 
 
